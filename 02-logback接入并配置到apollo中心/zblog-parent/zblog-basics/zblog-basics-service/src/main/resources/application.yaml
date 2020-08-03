@@ -1,0 +1,41 @@
+app:
+  #使用apollo项目的编号
+  id: zblog-application
+apollo:
+  meta: http://192.168.46.204:8080 #Apllo MetaServer的地址
+  bootstrap:
+    enabled: true #是否开启Apollo配置预加载功能 默认为false
+    eagerLoad:
+      enabled: true #是否开启Apollo支持日志级别的加载实际，默认为false
+    namespaces: application,zblog-dubbo,bascis-application # 使用Apollo的命名空间 默认为application
+
+spring:
+#  application:
+#    name: zblog-basics-service
+#
+  datasource:
+    url: jdbc:mysql://192.168.46.201:3306/zblog_2019?useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password:
+
+
+# dubbo 配置项，对应 DubboConfigurationProperties 配置类
+#dubbo:
+#  # Dubbo 应用配置
+#  application:
+#    name: ${spring.application.name} # 应用名
+#  # Dubbo 注册中心配
+#  registry:
+#    address: 192.168.46.201:2181,192.168.46.202:2181,192.168.46.203:2181 # 注册中心地址。个鞥多注册中心，可见 http://dubbo.apache.org/zh-cn/docs/user/references/registry/introduction.html 文档。
+#    protocol: zookeeper
+#  # Dubbo 服务提供者协议配置
+#  protocol:
+#    port: 20881 # 协议端口。使用 -1 表示随机端口。
+#    name: dubbo # 使用 `dubbo://` 协议。更多协议，可见 http://dubbo.apache.org/zh-cn/docs/user/references/protocol/introduction.html 文档
+#  # 配置扫描 Dubbo 自定义的 @Service 注解，暴露成 Dubbo 服务提供者
+#  scan:
+#    base-packages: com.zblog
+
+
+
