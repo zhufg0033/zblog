@@ -1,0 +1,71 @@
+2020-08-06 10:17:20,885 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4607 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 10:17:20,886 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 10:17:22,786 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 62.627 seconds (JVM running for 64.002)
+2020-08-06 10:25:26,322 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4680 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 10:25:26,326 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 10:25:28,290 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 62.647 seconds (JVM running for 63.894)
+2020-08-06 10:27:51,339 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4699 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 10:27:51,340 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 10:27:53,429 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 62.788 seconds (JVM running for 64.015)
+2020-08-06 10:31:22,911 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4735 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 10:31:22,913 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 10:31:25,656 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 63.546 seconds (JVM running for 64.821)
+2020-08-06 10:37:43,892 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4802 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 10:37:43,893 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 10:37:46,289 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 63.215 seconds (JVM running for 64.66)
+2020-08-06 10:40:06,274 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4829 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 10:40:06,279 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 10:40:08,821 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 63.365 seconds (JVM running for 64.67)
+2020-08-06 11:08:42,894 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 5075 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 11:08:42,895 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 11:08:46,043 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 63.826 seconds (JVM running for 64.955)
+2020-08-06 11:17:18,373 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 5149 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 11:17:18,374 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 11:17:18,374 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 11:17:21,642 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 63.986 seconds (JVM running for 65.355)
+2020-08-06 11:17:21,870 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select id, username, name, avatar, email, password, status, created, updated, last_login, gender, role_id, comments, posts, signature, sign_db from mto_user where id = ? 
+2020-08-06 11:17:22,060 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 2(Long)
+2020-08-06 11:17:22,083 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2020-08-06 11:17:22,085 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: update mto_user set username = ?, name = ?, avatar = ?, email = ?, password = ?, status = ?, created = ?, updated = ?, last_login = ?, gender = ?, role_id = ?, comments = ?, posts = ?, signature = ?, sign_db = ? where id = ? 
+2020-08-06 11:17:22,091 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: zhufugao(String), Waiting(String), http://blog.zhufg.com/static/6b383d615f1eae2a861a71fb3a0d6d92.jpg(String), 666(String), 2H31UUU60FJQR8A19J287B3VUS(String), 0(Integer), 2020-06-30 20:52:34.0(Timestamp), null, 2020-07-30 17:39:52.0(Timestamp), 0(Integer), null, 6(Integer), 32(Integer), 学海无涯苦作舟(String), 2019(String), 2(Long)
+2020-08-06 11:17:22,094 DEBUG (BaseJdbcLogger.java:143)- <==    Updates: 1
+2020-08-06 11:29:15,608 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 5250 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 11:29:15,611 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 11:29:15,612 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 11:29:19,125 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 64.258 seconds (JVM running for 65.414)
+2020-08-06 11:29:19,398 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: select id, username, name, avatar, email, password, status, created, updated, last_login, gender, role_id, comments, posts, signature, sign_db from mto_user where id = ? 
+2020-08-06 11:29:19,613 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: 2(Long)
+2020-08-06 11:29:19,638 DEBUG (BaseJdbcLogger.java:143)- <==      Total: 1
+2020-08-06 11:29:19,640 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: update mto_user set username = ?, name = ?, avatar = ?, email = ?, password = ?, status = ?, created = ?, updated = ?, last_login = ?, gender = ?, role_id = ?, comments = ?, posts = ?, signature = ?, sign_db = ? where id = ? 
+2020-08-06 11:29:19,648 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: zhufugao(String), Waiting(String), http://blog.zhufg.com/static/6b383d615f1eae2a861a71fb3a0d6d92.jpg(String), 777(String), 2H31UUU60FJQR8A19J287B3VUS(String), 0(Integer), 2020-06-30 20:52:34.0(Timestamp), null, 2020-07-30 17:39:52.0(Timestamp), 0(Integer), null, 6(Integer), 32(Integer), 学海无涯苦作舟(String), 2019(String), 2(Long)
+2020-08-06 11:29:19,652 DEBUG (BaseJdbcLogger.java:143)- <==    Updates: 1
+2020-08-06 11:29:19,653 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: insert into mto_user (id, username, name, avatar, email, password, status, created, updated, last_login, gender, role_id, comments, posts, signature, sign_db) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+2020-08-06 11:29:19,691 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: null, null, 测试用户(String), null, null, null, 0(Integer), null, null, null, 1(Integer), null, 0(Integer), 0(Integer), null, null
+2020-08-06 11:29:19,700 DEBUG (BaseJdbcLogger.java:143)- <==    Updates: 1
+2020-08-06 13:44:26,210 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 6270 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 13:44:26,210 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 13:44:26,211 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 13:44:29,673 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 64.189 seconds (JVM running for 65.628)
+2020-08-06 13:44:29,926 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: insert into mto_user (id, username, name, avatar, email, password, status, created, updated, last_login, gender, role_id, comments, posts, signature, sign_db) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+2020-08-06 13:44:30,148 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: null, null, 测试用户(String), null, null, null, 0(Integer), null, null, null, 1(Integer), null, 0(Integer), 0(Integer), null, null
+2020-08-06 13:44:30,158 DEBUG (BaseJdbcLogger.java:143)- <==    Updates: 1
+2020-08-06 13:49:40,241 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 6317 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 13:49:40,242 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 13:49:40,242 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 13:49:42,466 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 6317 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 13:49:42,466 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 13:49:42,467 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 13:52:20,904 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 6343 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 13:52:20,905 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 13:52:20,906 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 13:52:24,470 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 64.254 seconds (JVM running for 65.508)
+2020-08-06 13:52:24,715 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: insert into mto_user (id, username, name, avatar, email, password, status, created, updated, last_login, gender, role_id, comments, posts, signature, sign_db) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+2020-08-06 13:52:24,954 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: null, null, 测试用户(String), null, null, null, 0(Integer), null, null, null, 1(Integer), null, 0(Integer), 0(Integer), null, null
+2020-08-06 13:52:24,963 DEBUG (BaseJdbcLogger.java:143)- <==    Updates: 1
+2020-08-06 13:56:26,741 INFO (StartupInfoLogger.java:55)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 6377 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-06 13:56:26,742 DEBUG (StartupInfoLogger.java:56)- Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-08-06 13:56:26,742 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-06 13:56:31,252 INFO (StartupInfoLogger.java:61)- Started ZblogBasicsServiceApplicationTests in 65.332 seconds (JVM running for 66.718)
+2020-08-06 13:56:31,500 DEBUG (BaseJdbcLogger.java:143)- ==>  Preparing: insert into mto_user (id, username, name, avatar, email, password, status, created, updated, last_login, gender, role_id, comments, posts, signature, sign_db) values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) 
+2020-08-06 13:56:31,703 DEBUG (BaseJdbcLogger.java:143)- ==> Parameters: null, null, 测试用户(String), null, null, null, 0(Integer), null, null, null, 1(Integer), null, 0(Integer), 0(Integer), null, null
+2020-08-06 13:56:31,740 DEBUG (BaseJdbcLogger.java:143)- <==    Updates: 1
