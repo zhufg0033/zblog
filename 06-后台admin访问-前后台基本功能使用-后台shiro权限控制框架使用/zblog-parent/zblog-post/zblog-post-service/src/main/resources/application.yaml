@@ -1,0 +1,20 @@
+app:
+  #使用apollo项目的编号
+  id: zblog-application
+apollo:
+  meta: http://192.168.46.204:8080 #Apllo MetaServer的地址
+  bootstrap:
+    enabled: true #是否开启Apollo配置预加载功能 默认为false
+    eagerLoad:
+      enabled: true #是否开启Apollo支持日志级别的加载实际，默认为false
+    namespaces: application,zblog-dubbo,database,redis-conf,post-application # 使用Apollo的命名空间 默认为application
+
+#elasticsearch
+spring:
+  elasticsearch:
+    jest:
+      uris: http://192.168.46.201:9200,http://192.168.46.202:9200,http://192.168.46.203:9200
+management:
+  health:
+    elasticsearch:
+      enabled: false

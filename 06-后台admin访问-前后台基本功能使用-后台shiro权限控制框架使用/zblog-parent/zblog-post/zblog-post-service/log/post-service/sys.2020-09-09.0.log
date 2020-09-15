@@ -1,0 +1,62 @@
+16:25:14.817 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Starting ZblogPostServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4415 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-post/zblog-post-service)
+16:25:14.817 [main] DEBUG logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+16:25:14.818 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:No active profile set, falling back to default profiles: default
+16:25:21.829 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+16:25:21.840 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+16:25:23.958 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Started ZblogPostServiceApplicationTests in 69.915 seconds (JVM running for 71.46)
+16:25:24.277 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+16:25:24.302 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+16:25:24.318 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==>  Preparing: select count(*) from mto_post 
+16:25:24.350 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==> Parameters: 
+16:25:24.370 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:<==      Total: 1
+17:09:15.881 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Starting ZblogPostServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4817 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-post/zblog-post-service)
+17:09:15.881 [main] DEBUG logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+17:09:15.882 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:No active profile set, falling back to default profiles: default
+17:09:24.501 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:09:24.514 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:09:26.989 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Started ZblogPostServiceApplicationTests in 46.67 seconds (JVM running for 50.533)
+17:09:38.499 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:09:38.636 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:09:38.730 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==>  Preparing: select count(*) from mto_post 
+17:09:39.121 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==> Parameters: 
+17:09:39.392 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:<==      Total: 1
+17:09:50.608 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:09:50.610 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:==>  Preparing: select id, author_id, channel_id, comments, created, favors, featured, status, summary, tags, thumbnail, title, views, weight from mto_post 
+17:09:50.613 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:==> Parameters: 
+17:09:50.758 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:<==      Total: 40
+17:12:56.586 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Starting ZblogPostServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 4850 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-post/zblog-post-service)
+17:12:56.587 [main] DEBUG logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+17:12:56.588 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:No active profile set, falling back to default profiles: default
+17:13:04.097 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:13:04.108 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:13:06.256 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Started ZblogPostServiceApplicationTests in 40.426 seconds (JVM running for 42.379)
+17:13:10.983 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:13:11.001 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:13:11.020 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==>  Preparing: select count(*) from mto_post 
+17:13:11.047 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==> Parameters: 
+17:13:11.063 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:<==      Total: 1
+17:13:11.069 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:13:11.069 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:==>  Preparing: select id, author_id, channel_id, comments, created, favors, featured, status, summary, tags, thumbnail, title, views, weight from mto_post 
+17:13:11.069 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:==> Parameters: 
+17:13:11.088 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:<==      Total: 40
+17:43:55.891 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Starting ZblogPostServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 5107 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-post/zblog-post-service)
+17:43:55.892 [main] DEBUG logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+17:43:55.893 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:No active profile set, falling back to default profiles: default
+17:44:03.200 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:44:03.211 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:44:05.105 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Started ZblogPostServiceApplicationTests in 40.005 seconds (JVM running for 41.487)
+17:44:05.385 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:44:05.412 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:44:05.429 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==>  Preparing: select count(*) from mto_post 
+17:44:05.458 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:==> Parameters: 
+17:44:05.476 [main] DEBUG logger_name:c.z.s.d.subtreasury.MtoPostDao.count - [TID: N/A] - message:<==      Total: 1
+17:44:05.483 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:44:05.483 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:==>  Preparing: select id, author_id, channel_id, comments, created, favors, featured, status, summary, tags, thumbnail, title, views, weight from mto_post 
+17:44:05.483 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:==> Parameters: 
+17:44:05.502 [main] DEBUG logger_name:c.z.s.d.s.MtoPostDao.selectAll - [TID: N/A] - message:<==      Total: 40
+17:56:32.289 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Starting ZblogPostServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 5212 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-post/zblog-post-service)
+17:56:32.290 [main] DEBUG logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+17:56:32.290 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:No active profile set, falling back to default profiles: default
+17:56:40.634 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:56:40.645 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+17:56:43.032 [main] INFO  logger_name:c.z.ZblogPostServiceApplicationTests - [TID: N/A] - message:Started ZblogPostServiceApplicationTests in 41.633 seconds (JVM running for 43.7)

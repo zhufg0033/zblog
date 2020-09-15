@@ -1,0 +1,26 @@
+package com.zblog.web.template.directive;
+
+
+import com.zblog.post.service.ChannelService;
+import com.zblog.web.template.DirectiveHandler;
+import com.zblog.web.template.TemplateDirective;
+import org.apache.dubbo.config.annotation.Reference;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+@Component
+public class ChannelDirective extends TemplateDirective {
+    @Reference
+    private ChannelService channelService;
+
+    @Override
+    public String getName() {
+        return "channel";
+    }
+
+    @Override
+    public void execute(DirectiveHandler handler) throws Exception {
+        Integer id = handler.getInteger("id", 0);
+        handler.put(RESULT, channelService.getById(id)).render();
+    }
+}

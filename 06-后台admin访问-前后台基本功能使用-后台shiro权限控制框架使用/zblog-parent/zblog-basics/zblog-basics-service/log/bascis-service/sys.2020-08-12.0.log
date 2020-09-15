@@ -1,0 +1,87 @@
+2020-08-12 09:09:46,119 INFO (StartupInfoLogger.java:50)- Starting Test01 on zhufugaodeMacBook-Pro.local with PID 22513 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:09:46,124 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:09:46,125 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:12:44,675 INFO (StartupInfoLogger.java:50)- Starting Test01 on zhufugaodeMacBook-Pro.local with PID 22551 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:12:44,677 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:12:44,678 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:12:50,746 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:12:50,752 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:12:52,048 INFO (StartupInfoLogger.java:59)- Started Test01 in 68.083 seconds (JVM running for 69.474)
+2020-08-12 09:14:18,222 INFO (StartupInfoLogger.java:50)- Starting Test01 on zhufugaodeMacBook-Pro.local with PID 22576 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:14:18,224 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:14:18,225 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:14:23,645 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:14:23,650 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:14:24,540 INFO (StartupInfoLogger.java:59)- Started Test01 in 67.049 seconds (JVM running for 68.488)
+2020-08-12 09:15:42,505 INFO (StartupInfoLogger.java:50)- Starting Test01 on zhufugaodeMacBook-Pro.local with PID 22597 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:15:42,506 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:15:42,506 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:15:47,483 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:15:47,490 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:15:48,455 INFO (StartupInfoLogger.java:59)- Started Test01 in 66.477 seconds (JVM running for 67.654)
+2020-08-12 09:19:47,621 INFO (StartupInfoLogger.java:50)- Starting Test01 on zhufugaodeMacBook-Pro.local with PID 22639 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:19:47,627 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:19:47,628 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:19:53,187 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:19:53,194 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:19:54,260 INFO (StartupInfoLogger.java:59)- Started Test01 in 67.329 seconds (JVM running for 68.693)
+2020-08-12 09:21:20,526 INFO (StartupInfoLogger.java:50)- Starting Test01 on zhufugaodeMacBook-Pro.local with PID 22658 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:21:20,530 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:21:20,531 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:21:25,820 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:21:25,826 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:21:26,841 INFO (StartupInfoLogger.java:59)- Started Test01 in 66.944 seconds (JVM running for 68.267)
+2020-08-12 09:23:14,815 INFO (StartupInfoLogger.java:50)- Starting LockTest on zhufugaodeMacBook-Pro.local with PID 22677 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:23:14,818 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:23:14,819 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:23:20,384 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:23:20,391 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:23:21,419 INFO (StartupInfoLogger.java:59)- Started LockTest in 67.298 seconds (JVM running for 68.647)
+2020-08-12 09:26:07,917 INFO (StartupInfoLogger.java:50)- Starting LockTest on zhufugaodeMacBook-Pro.local with PID 22703 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 09:26:07,920 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 09:26:07,920 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 09:26:13,571 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:26:13,577 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 09:26:14,643 INFO (StartupInfoLogger.java:59)- Started LockTest in 67.435 seconds (JVM running for 68.732)
+2020-08-12 10:10:57,004 INFO (StartupInfoLogger.java:50)- Starting ScriptTest on zhufugaodeMacBook-Pro.local with PID 23109 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:10:57,007 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:10:57,008 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:11:02,436 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:11:02,443 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:11:03,386 INFO (StartupInfoLogger.java:59)- Started ScriptTest in 67.101 seconds (JVM running for 68.587)
+2020-08-12 10:15:34,271 INFO (StartupInfoLogger.java:50)- Starting ScriptTest on zhufugaodeMacBook-Pro.local with PID 23160 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:15:34,273 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:15:34,274 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:15:39,773 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:15:39,780 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:15:40,783 INFO (StartupInfoLogger.java:59)- Started ScriptTest in 67.167 seconds (JVM running for 68.552)
+2020-08-12 10:19:01,524 INFO (StartupInfoLogger.java:50)- Starting ScriptTest on zhufugaodeMacBook-Pro.local with PID 23188 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:19:01,527 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:19:01,527 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:19:07,389 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:19:07,395 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:19:08,613 INFO (StartupInfoLogger.java:59)- Started ScriptTest in 67.726 seconds (JVM running for 69.001)
+2020-08-12 10:25:03,705 INFO (StartupInfoLogger.java:50)- Starting ScriptTest on zhufugaodeMacBook-Pro.local with PID 23238 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:25:03,707 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:25:03,708 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:25:09,075 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:25:09,081 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:25:10,786 INFO (StartupInfoLogger.java:59)- Started ScriptTest in 67.784 seconds (JVM running for 69.214)
+2020-08-12 10:35:04,626 INFO (StartupInfoLogger.java:50)- Starting LockTest on zhufugaodeMacBook-Pro.local with PID 23327 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:35:04,629 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:35:04,630 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:44:13,533 INFO (StartupInfoLogger.java:50)- Starting LockTest on zhufugaodeMacBook-Pro.local with PID 23411 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:44:13,536 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:44:13,537 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:47:37,379 INFO (StartupInfoLogger.java:50)- Starting LockTest on zhufugaodeMacBook-Pro.local with PID 23436 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 10:47:37,382 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 10:47:37,382 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 10:47:43,721 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:47:43,727 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 10:47:45,059 INFO (StartupInfoLogger.java:59)- Started LockTest in 68.469 seconds (JVM running for 69.974)
+2020-08-12 14:26:28,661 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 25331 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-12 14:26:28,665 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-12 14:26:28,666 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-12 14:26:37,920 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 14:26:37,935 INFO (DynamicRoutingDataSource.java:15)- 当前数据源 [zblog2019]
+2020-08-12 14:26:39,601 INFO (StartupInfoLogger.java:59)- Started ZblogBasicsServiceApplicationTests in 71.686 seconds (JVM running for 72.89)

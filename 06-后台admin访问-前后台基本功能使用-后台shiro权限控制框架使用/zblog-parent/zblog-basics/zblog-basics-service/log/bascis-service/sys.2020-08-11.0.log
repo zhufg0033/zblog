@@ -1,0 +1,28 @@
+2020-08-11 11:22:40,412 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 15161 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 11:22:40,415 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 11:22:40,416 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 11:22:43,470 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 15161 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 11:22:43,470 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 11:22:43,470 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 11:22:44,009 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 15161 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 11:22:44,010 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 11:22:44,010 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 11:22:44,515 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 15161 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 11:22:44,516 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 11:22:44,516 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 11:30:07,067 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 15302 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 11:30:07,071 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 11:30:07,072 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 11:30:10,207 INFO (StartupInfoLogger.java:59)- Started ZblogBasicsServiceApplicationTests in 63.795 seconds (JVM running for 64.855)
+2020-08-11 13:54:14,630 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 16727 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 13:54:14,631 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 13:54:14,632 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 13:54:14,815 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 16727 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 13:54:14,816 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 13:54:14,816 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 13:54:14,885 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 16727 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 13:54:14,886 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 13:54:14,887 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2020-08-11 13:54:14,944 INFO (StartupInfoLogger.java:50)- Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 16727 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+2020-08-11 13:54:14,945 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+2020-08-11 13:54:14,945 INFO (SpringApplication.java:675)- No active profile set, falling back to default profiles: default

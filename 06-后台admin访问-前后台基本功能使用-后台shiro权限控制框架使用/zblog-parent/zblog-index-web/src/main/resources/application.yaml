@@ -1,0 +1,44 @@
+app:
+  #使用apollo项目的编号
+  id: zblog-application
+apollo:
+  meta: http://192.168.46.204:8080 #Apllo MetaServer的地址
+  bootstrap:
+    enabled: true #是否开启Apollo配置预加载功能 默认为false
+    eagerLoad:
+      enabled: true #是否开启Apollo支持日志级别的加载实际，默认为false
+    namespaces: application,zblog-dubbo,redis-conf,web-application,index-web # 使用Apollo的命名空间 默认为application
+
+#系统变量  apollo中无法配置
+site:
+  version: 3.5.0
+  location: ${user.dir}
+  controls:
+    # 注册开关
+    register: true
+    # 注册开启邮箱验证
+    register_email_validate: false
+    # 发布文章开关
+    post: true
+    # 评论开关
+    comment: true
+  options:
+    theme: classic
+    site_logo: /dist/images/logo/logo.png
+    site_favicon: /dist/images/logo/m.png
+    storage_max_width: 800
+    storage_limit_size: 2
+    editor: markdown
+    thumbnail_channel_size: 200x112
+    thumbnail_post_size: 360x200
+
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  freemarker:
+    template-loader-path:
+      - classpath:/templates
+      - file:${site.location}/storage/templates
+    settings:
+      auto_import: /utils.ftl as utils

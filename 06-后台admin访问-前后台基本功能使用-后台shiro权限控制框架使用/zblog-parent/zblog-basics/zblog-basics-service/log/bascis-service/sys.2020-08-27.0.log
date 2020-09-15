@@ -1,0 +1,6 @@
+09:07:48.531 [main] INFO  logger_name:c.z.ZblogBasicsServiceApplicationTests - [TID: N/A] - message:Starting ZblogBasicsServiceApplicationTests on zhufugaodeMacBook-Pro.local with PID 24998 (started by zhufugao in /Users/zhufugao/sourceTree/rebuildZblog/zblog-parent/zblog-basics/zblog-basics-service)
+09:07:48.536 [main] DEBUG logger_name:c.z.ZblogBasicsServiceApplicationTests - [TID: N/A] - message:Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.3.RELEASE
+09:07:48.537 [main] INFO  logger_name:c.z.ZblogBasicsServiceApplicationTests - [TID: N/A] - message:No active profile set, falling back to default profiles: default
+09:07:54.163 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+09:07:54.170 [main] INFO  logger_name:c.z.u.s.DynamicRoutingDataSource - [TID: N/A] - message:当前数据源 [null]
+09:07:56.415 [main] INFO  logger_name:c.z.ZblogBasicsServiceApplicationTests - [TID: N/A] - message:Started ZblogBasicsServiceApplicationTests in 68.557 seconds (JVM running for 70.086)
